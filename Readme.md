@@ -1,4 +1,4 @@
-# Projects Web - Vite.js - JavaScript - Tailwind.css
+# Tailwind - Projects Web - Vite.js - JavaScript - Tailwind.css
 
 ## By - JeanCarlos Jimenez - @jeanctech
 
