@@ -9,7 +9,11 @@
   line-height: 1.5;
   font-weight: 400;
   color-scheme: light dark;
+<<<<<<< HEAD
   color: rgba(255, 255, 255, 0.87);
+=======
+  color: #ffffffde;
+>>>>>>> d841e107b1eec7a0c6506c961dded372341ffd0c
   background-color: #242424;
   display: flex;
   justify-content: center;
@@ -54,10 +58,13 @@
   padding: 1rem;
   background-color: #1b1b1b;
   border-radius: 0.5rem;
+<<<<<<< HEAD
   -webkit-border-radius: 0.5rem;
   -moz-border-radius: 0.5rem;
   -ms-border-radius: 0.5rem;
   -o-border-radius: 0.5rem;
+=======
+>>>>>>> d841e107b1eec7a0c6506c961dded372341ffd0c
 }
 
 #app-card{
